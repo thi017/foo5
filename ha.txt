@@ -3,3 +3,4 @@ line2 added from net
 line3 added locally
 line4 net
 line5 local
+Line6 net
